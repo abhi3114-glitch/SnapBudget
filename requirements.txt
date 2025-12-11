@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+Pillow
+pandas
+python-dateutil
+gspread
+oauth2client
